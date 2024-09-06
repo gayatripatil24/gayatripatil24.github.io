@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/sbindustrialsolutions/static/css/main.48ec38e6.css",
+    "main.js": "/sbindustrialsolutions/static/js/main.986cc5ba.js",
+    "static/js/453.0e9827c4.chunk.js": "/sbindustrialsolutions/static/js/453.0e9827c4.chunk.js",
+    "static/media/water_leakage.JPG": "/sbindustrialsolutions/static/media/water_leakage.c438b8fcc667a16a2123.JPG",
+    "static/media/water_splash.jpg": "/sbindustrialsolutions/static/media/water_splash.340fd073fed1353ab090.jpg",
+    "static/media/industry.jpg": "/sbindustrialsolutions/static/media/industry.5bf4b1a662cf8a3a3700.jpg",
+    "static/media/coils_cleaning_with_water.jpg": "/sbindustrialsolutions/static/media/coils_cleaning_with_water.563d21250786955c3e74.jpg",
+    "static/media/medium.mp4": "/sbindustrialsolutions/static/media/medium.ca053d9dd51103ed0312.mp4",
+    "static/media/cement.jpg": "/sbindustrialsolutions/static/media/cement.a2c9d73b74ebac7c2d7a.jpg",
+    "static/media/water.jpg": "/sbindustrialsolutions/static/media/water.5b77eb8a087efe0d37b8.jpg",
+    "static/media/power.jpg": "/sbindustrialsolutions/static/media/power.5c5fa56ecc56f2bd7d6c.jpg",
+    "static/media/food.jpg": "/sbindustrialsolutions/static/media/food.ec706b6ed0f91b5aa360.jpg",
+    "static/media/oil.jpg": "/sbindustrialsolutions/static/media/oil.2ee9e26d97abb2a4f877.jpg",
+    "static/media/sbis2.jpg": "/sbindustrialsolutions/static/media/sbis2.f56cc35818e41420da3f.jpg",
+    "static/media/sbis_logo_4.png": "/sbindustrialsolutions/static/media/sbis_logo_4.325fd041136ae64c288e.png",
+    "static/media/sbis1.jpg": "/sbindustrialsolutions/static/media/sbis1.f07a6b1dd25c65de4341.jpg",
+    "static/media/ol1.webp": "/sbindustrialsolutions/static/media/ol1.e5f18604d0f3e398b16a.webp",
+    "static/media/ol2.webp": "/sbindustrialsolutions/static/media/ol2.e97cbadc2b26bd4c18f0.webp",
+    "index.html": "/sbindustrialsolutions/index.html",
+    "static/media/background.svg": "/sbindustrialsolutions/static/media/background.93b495a54337cbef884e325044f1fead.svg",
+    "main.48ec38e6.css.map": "/sbindustrialsolutions/static/css/main.48ec38e6.css.map",
+    "main.986cc5ba.js.map": "/sbindustrialsolutions/static/js/main.986cc5ba.js.map",
+    "453.0e9827c4.chunk.js.map": "/sbindustrialsolutions/static/js/453.0e9827c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ec38e6.css",
+    "static/js/main.986cc5ba.js"
+  ]
+}
